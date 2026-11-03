@@ -40,3 +40,7 @@ In the desktop app: click + next to the prompt box, then Plugins, then Add marke
 claude plugin validate .
 claude plugin test .
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
