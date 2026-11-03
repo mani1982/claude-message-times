@@ -1,0 +1,11 @@
+{
+  "name": "claude-message-times",
+  "owner": { "name": "Mani Jalilian" },
+  "plugins": [
+    {
+      "name": "message-times",
+      "source": "./",
+      "description": "Shows a colored date and time above each prompt and each assistant reply in the transcript."
+    }
+  ]
+}
